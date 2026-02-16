@@ -6,10 +6,7 @@ import com.example.backend.service.CarService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
-import org.springframework.http.HttpStatus;
-import com.example.backend.model.User;
 import com.example.backend.service.UserService;
-import org.springframework.http.MediaType;
 
 @RestController
 @RequestMapping("/api/cars")
