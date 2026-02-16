@@ -52,18 +52,6 @@ More details:
 
 ---
 
-##  Application Workflow
-
-The following diagram illustrates the user journey from fault selection to mechanic recommendation.
-
-<p align="center">
-  <img src="docs/flows/user-flow.png" width="750"/>
-</p>
-
-More details:  
- `docs/flows/`
-
----
 
 ##  API Documentation
 
