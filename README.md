@@ -39,20 +39,6 @@ Detailed architecture documentation available in:
 
 ---
 
-##  Authentication Flow
-
-JWT-based authentication is implemented using Spring Security.
-
-<p align="center">
-  <img src="docs/architecture/authentication-flow.png" width="700"/>
-</p>
-
-More details:  
- `docs/authentication.md`
-
----
-
-
 ##  API Documentation
 
 The API is fully documented using OpenAPI (Swagger).
